@@ -11,5 +11,5 @@ The **libft** library is an essential tool for future projects at 42school, as i
 
 ## Documentation
 
-* ``man`` *nombre de la función*
-* [Listas en C](https://www.cprogramming.com/tutorial/c/lesson15.html)
+* ``man`` *name of the funtion*
+* [Lists in C](https://www.cprogramming.com/tutorial/c/lesson15.html)
