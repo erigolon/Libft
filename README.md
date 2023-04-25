@@ -4,6 +4,9 @@
   <img width="200" height="200" src="https://user-images.githubusercontent.com/76873228/142725962-f47f49d4-e98a-4312-a6a2-474ab02be26b.png">
 </p>
 
+![](https://img.shields.io/badge/Language-C-blue)
+![](https://img.shields.io/badge/School-42-black)
+
 ## Description
 
 The **libft** project is a fundamental project at 42school that requires students to create a custom C library containing various standard C library functions, as well as additional functions that can be useful for future projects.
@@ -17,6 +20,7 @@ The **libft** library is an essential tool for future projects at 42school, as i
 ## Usage
 
 ``make`` without bonus functions.
+
 ``make bonus`` to compile with bonuses.
 
 ## Documentation
