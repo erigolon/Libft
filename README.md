@@ -1,4 +1,9 @@
 # Libft
+
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/76873228/142725962-f47f49d4-e98a-4312-a6a2-474ab02be26b.png">
+</p>
+
 ## Description
 
 The **libft** project is a fundamental project at 42school that requires students to create a custom C library containing various standard C library functions, as well as additional functions that can be useful for future projects.
@@ -8,6 +13,11 @@ The library includes functions that are typically found in the `string.h`, `ctyp
 All of the functions in the **libft** library have been designed and optimized to be efficient and reliable. They have been thoroughly tested to ensure they work correctly in various scenarios.
 
 The **libft** library is an essential tool for future projects at 42school, as it provides a comprehensive set of functions that students can use and build upon in their own code. To use the **libft** library in your projects, simply include the appropriate header files and link to the library in your Makefile.
+
+## Usage
+
+``make`` without bonus functions.
+``make bonus`` to compile with bonuses.
 
 ## Documentation
 
