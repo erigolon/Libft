@@ -6,6 +6,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Language-C-blue">
  <img src="https://img.shields.io/badge/School-42-black">
+ <img src="https://img.shields.io/badge/Puntuation-125%2F100-brightgreen">
 </p>
 
 ## Description
