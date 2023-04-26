@@ -1,11 +1,12 @@
 # Libft
 
+![](https://img.shields.io/badge/Language-C-blue)
+![](https://img.shields.io/badge/School-42-black)
+
 <p align="center">
   <img width="200" height="200" src="https://user-images.githubusercontent.com/76873228/142725962-f47f49d4-e98a-4312-a6a2-474ab02be26b.png">
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Language-C-blue">
- <img src="https://img.shields.io/badge/School-42-black">
  <img src="https://img.shields.io/badge/Puntuation-125%2F100-brightgreen">
 </p>
 
